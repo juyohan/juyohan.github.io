@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstudy_notes=self.webpackChunkstudy_notes||[]).push([["1833"],{5513(e){e.exports=JSON.parse('{"title":"\uCD5C\uADFC \uAE00","items":[{"title":"\uCC44\uD305 \uC2DC\uC2A4\uD15C \uAD6C\uD604\uAE30 0\uD3B8 - \uC804\uCCB4 \uAD6C\uC870","permalink":"/blog/dev/chat-system-architecture-overview","unlisted":false,"date":"2026-11-24T00:00:00.000Z"}]}')}}]);

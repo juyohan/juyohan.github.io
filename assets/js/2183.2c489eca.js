@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstudy_notes=self.webpackChunkstudy_notes||[]).push([["2183"],{8122(e,s,t){t.d(s,{createPacketServices:()=>c.$});var c=t(8484);t(184)}}]);

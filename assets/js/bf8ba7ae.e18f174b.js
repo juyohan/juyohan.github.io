@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstudy_notes=self.webpackChunkstudy_notes||[]).push([["6440"],{969(e){e.exports=JSON.parse('{"name":"site-index","id":"default"}')}}]);

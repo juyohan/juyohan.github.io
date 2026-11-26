@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstudy_notes=self.webpackChunkstudy_notes||[]).push([["8304"],{6883(e,s,t){t.d(s,{createInfoServices:()=>u.v});var u=t(6744);t(184)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstudy_notes=self.webpackChunkstudy_notes||[]).push([["8416"],{6600(e){e.exports=JSON.parse('{"authors":[{"name":"Yohan","title":"Backend Developer","url":"https://github.com/juyohan","imageURL":"https://github.com/juyohan.png","key":"yohan","page":null,"count":1}]}')}}]);

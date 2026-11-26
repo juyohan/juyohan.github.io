@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstudy_notes=self.webpackChunkstudy_notes||[]).push([["3640"],{6241(e){e.exports=JSON.parse('{"basePath":"/","page":1,"totalPages":1,"perPage":10}')}}]);
